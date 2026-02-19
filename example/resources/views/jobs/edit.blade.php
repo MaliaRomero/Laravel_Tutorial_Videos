@@ -8,7 +8,8 @@
             @method('PATCH')
 
         <div class="space-y-12">
-            <div class="border-b border-gray-900/10 pb-12">                <p class="mt-1 text-sm/6 text-gray-600">We just need a few details.</p>
+            <div class="border-b border-gray-900/10 pb-12">                
+                <p class="mt-1 text-sm/6 text-gray-600">We just need a few details.</p>
                 <div class="mt-10 grid grid-cols-1 gap-x-6 gap-y-8 sm:grid-cols-6">
                     <div class="sm:col-span-4">
                     <label for="title" class="block text-sm/6 font-medium text-gray-900">Title</label>
